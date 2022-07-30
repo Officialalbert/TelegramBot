@@ -8,7 +8,7 @@ namespace TelegramBot
 {
     internal class Program
     {
-        private static string Token { get; set; } = "5391712572:AAFt4hr3sVavAEVw6zomG31a1rpYgKdsmZc"; //Telegram token
+        private static string Token { get; set; } =  //Telegram token, but i deleted him/ Just input: "token";
         private static TelegramBotClient client;
         public static string Karts { get; set; } = "Номер Карты: 145208975829"; // just random numbers, evet
 
